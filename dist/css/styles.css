@@ -1,0 +1,15 @@
+.bg-viber {background-color: #59267c;}
+
+.site-hero {overflow: hidden;}
+.site-hero .hero-img {height: 100vh;}
+.site-hero .hero-img img {height: 100%;}
+
+.site-hero .content {
+    display: flex;
+    align-items: center;
+    height: calc(100vh - 70px);
+}
+@media (max-width: 575.98px) {
+    .site-hero .hero-img {height: 60vh;}
+    .site-hero .content {height: calc(60vh);}
+}
