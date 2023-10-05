@@ -27,9 +27,12 @@
                     <div class="p-4 p-lg-4">
                         <p class="fw-bold fst-italic">"Delivering your food with love."</p>
                         <h1 class="display-6 pb-4">Order your favorite meals and have them delivered right to your doorstep.​​</h1>
-                        <button type="button" class="btn btn-secondary btn-lg w-100 mb-1" data-bs-toggle="modal" data-bs-target="#appModal"><i class="bi bi-phone pe-2"></i> Mobile App</button>
-                        <a href="" class="btn btn-primary btn-lg w-100 mb-1"><i class="bi bi-facebook pe-2"></i> Facebook</a>
-                        <a href="" class="btn bg-viber btn-lg text-light w-100 mb-1"><i class="fa-brands fa-viber pe-2"></i> Viber</a>
+                        <h2>Book Now</h2>
+                        <div class="d-flex mb-1">
+                            <button type="button" class="btn btn-secondary btn-lg w-100 mx-1" data-bs-toggle="modal" data-bs-target="#appModal"><i class="bi bi-phone pe-2"></i> Mobile App</button>
+                            <a href="" class="btn btn-primary btn-lg w-100"><i class="bi bi-facebook pe-2"></i> Facebook</a>
+                        </div>
+                        <a href="" class="btn bg-viber btn-lg text-light w-100 mx-1"><i class="fa-brands fa-viber pe-2"></i> Viber</a>
                     </div>
                 </div>
             </div>
@@ -88,11 +91,45 @@
                     <div class="py-2 pb-2">
                         <h1 class="display-6 py-2">Merchant Partner</h1>
                         <p class="lead">Achieve growth alongside Rapidodo! Elevate your business using our technology, which can enhance sales and open up new possibilities for you!</p>
-                        <a href="" class="btn btn-warning btn-lg text-white">Apply Now</a>
+                        <a href="https://forms.gle/7F6bs3AhVd6SXw9N6" class="btn btn-warning btn-lg text-white">Apply Now</a>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 order-1 order-lg-2">
                     <img src="./dist/img/merchant-partner.jpg" class="w-100 border rounded-3" alt="Merchant Partner">
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="p-2 p-lg-4">
+                    <h1 class="display-6 py-2">Why Partner with Rapidodo</h1>
+                </div>
+                <div class="row p-2 p-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="./dist/img/more-customers.jpg" class="w-100" alt="Rapidodo Pahatud">
+                            <h6 class="fw-bold text-center p-2">More Customers</h6>
+                            <p class="lead text-center">Attract additional customers using our services. Given the current trend, more and more customers are choosing to place orders for their favorite meals online.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="./dist/img/free-marketing.jpg" class="w-100" alt="Rapidodo Pasakay">
+                            <h6 class="fw-bold text-center p-2">Free marketing</h6>
+                            <p class="lead text-center">Enhance your brand's visibility using our promotional platforms. Utilizing our wide variety of platform options to connect with clients effectively.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="./dist/img/increase-your-orders.jpg" class="w-100" alt="Rapidodo Pasugo">
+                            <h6 class="fw-bold text-center p-2">Increase your orders</h6>
+                            <p class="lead text-center">Easily create promotions and seize the opportunity to participate in our exclusive promotional offers. This will readily grab the attention of customers.</p>
+                        </div>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
